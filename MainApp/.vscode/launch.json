@@ -1,0 +1,13 @@
+{
+    "version":  "0.2.0",
+    "configurations":  [
+                           {
+                               "type":  "al",
+                               "request":  "launch",
+                               "name":  "Cloud Sandbox (ALForGitHub)",
+                               "environmentType": "Sandbox",
+                               "environmentName": "ALForGitHub",
+                               "tenant":  "dec36c5a-abfb-4e08-b021-3adae1cf7b1d",
+                           }
+                       ]
+}
